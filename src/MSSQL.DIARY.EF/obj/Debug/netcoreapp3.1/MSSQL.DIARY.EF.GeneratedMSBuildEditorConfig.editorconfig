@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MSSQL.DIARY.EF
+build_property.ProjectDir = C:\MSSQLDIARY-main\src\MSSQL.DIARY.EF\
